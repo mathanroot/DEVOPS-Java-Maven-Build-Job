@@ -17,6 +17,12 @@ Jenkins Configuration --> manage jenkins --> Tools --> Maven Installations --> v
 jenkins --->Create a new Freestyle project --> source code management --> git --> Build steps ---> Invoke top-level Maven targets ---> goals --> clean package ,then save and build.
 
 
+Java Output in console --- configure --> Add build step --> Execute shell --> java -cp target/hello-1.0.jar HelloWorld
+
+
+
 
 Console Output:
-<img width="1895" height="1070" alt="image" src="https://github.com/user-attachments/assets/8f87ae01-f823-4290-babd-102a207f0fb2" />
+<img width="1876" height="1068" alt="image" src="https://github.com/user-attachments/assets/82470684-7e40-4119-8263-eeab9683ef7b" />
+
+
