@@ -1,6 +1,6 @@
 # DEVOPS-Java-Maven-Build-Job
 
-In this task i have Run a Simple Java Maven Build Job in Jenkins
+In this task I have Run a Simple Java Maven Build Job in Jenkins
 
 Project folder --> Java-maven-build-job/src/main/java/HelloWorld.java 
 
